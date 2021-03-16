@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    
+}
+
+#first{
+    text-align: center;
+    margin-right: 200px;
+}
+
+.first-img{
+    height: 200px;
+}
+.second-img{
+height: 200px;
+}
+
+.third-img{
+
+height:250px;
+
+}
+
+h1{
+    color: red;
+    padding-left: 150px;
+}
+
+p{
+    color:white;
+    margin-left: 150px;
+
+}
+
+button{
+    margin-left: 150px;
+    cursor:pointer;
+    color: red;
+    background-color: black;
+}
+
+.qa{
+color: red;
+line-height: 1.5;
+}
+
+
+
+.answer{
+    margin-bottom: 5%;
+    cursor:pointer;
+    
+}
+
+
